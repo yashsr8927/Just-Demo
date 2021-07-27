@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class HorribleTest {
-//just for demo
+//just for demo new
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Connection con = null;
